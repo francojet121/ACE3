@@ -46,7 +46,7 @@
             <Polish>Klawisz interakcji</Polish>
             <French>Touche d'interaction</French>
             <Hungarian>Cselekvő gomb</Hungarian>
-            <Italian>Tasto interazione</Italian>
+            <Italian>Tasto di interazione</Italian>
             <Portuguese>Tecla de Interação</Portuguese>
         </Key>
         <Key ID="STR_ACE_Interact_Menu_SelfInteractKey">
@@ -58,7 +58,7 @@
             <Polish>Klawisz własnej interakcji</Polish>
             <French>Touche d'interaction personnelle</French>
             <Hungarian>Saját cselekvő gomb</Hungarian>
-            <Italian>Tasto per auto interazioni</Italian>
+            <Italian>Tasto di auto interazioni</Italian>
             <Portuguese>Tecla de Interação Pessoal</Portuguese>
         </Key>
         <Key ID="STR_ACE_Interact_Menu_SelfActionsRoot">
@@ -143,6 +143,7 @@
             <Spanish>Mantener el cursor centrado</Spanish>
             <Czech>Udržuj kurzor na středu</Czech>
             <Portuguese>Manter o cursor centralizado</Portuguese>
+            <Italian>Mantenere il cursor centrato</Italian>
         </Key>
         <Key ID="STR_ACE_Interact_cursorKeepCenteredDescription">
             <English>Keeps cursor centered and pans the option menu around. Useful if screen size is limited.</English>
@@ -154,6 +155,7 @@
             <Polish>Utrzymuje kursor na środku ekranu, zamiast tego ruch myszą powoduje przesuwanie menu interakcji. Użyteczne w przypadku kiedy rozmiar ekranu jest ograniczony.</Polish>
             <Spanish>Mantiene el cursor centrado y despliega los menús alrededor. Útil si el tamaño de la pantalla es limitado.</Spanish>
             <Portuguese>Manter o cursor centralizado e mover o menu de opções. Útil caso o tamanho da tela seja limitado.</Portuguese>
+            <Italian>Mantenere il cursor centrato e muovi il menu di opzioni. Utile se dimenzione di display è limitato</Italian>
         </Key>
         <Key ID="STR_ACE_Interact_Menu_ActionOnKeyRelease">
             <English>Do action when releasing menu key</English>
@@ -165,6 +167,7 @@
             <Spanish>Realizar la acción al soltar la tecla menu</Spanish>
             <Portuguese>Execute a ação quando soltar a tecla de menu</Portuguese>
             <Hungarian>Cselekvés végrehajtása a menügomb elengedésekor</Hungarian>
+            <Italian>Faccia il azione quando il tasto di menu sta rilasciato </Italian>
         </Key>
         <Key ID="STR_ACE_Interact_textSize">
             <English>Interaction Text Size</English>
@@ -176,6 +179,7 @@
             <Polish>Rozmiar tekstu interakcji</Polish>
             <Portuguese>Tamanho do texto de interação</Portuguese>
             <Hungarian>Cselekvő szöveg mérete</Hungarian>
+            <Italian>Dimenzione del testo di interazione</Italian>
         </Key>
         <Key ID="STR_ACE_Interact_shadowSetting">
             <English>Interaction Text Shadow</English>
@@ -187,6 +191,7 @@
             <Polish>Cień tekstu interakcji</Polish>
             <Portuguese>Sombra do texto de interação</Portuguese>
             <Hungarian>Cselekvő szöveg árnyéka</Hungarian>
+            <Italian>Ombra del testo di interazione</Italian>
         </Key>
         <Key ID="STR_ACE_Interact_shadowSettingDescription">
             <English>Allows controlling the text's shadow. Outline ignores custom shadow colors.</English>
@@ -198,6 +203,7 @@
             <Polish>Pozwala kontrolować cień tekstu. Kontury ignorują niestandardowe kolory cienia.</Polish>
             <Portuguese>Permite controlar a sombra do texto. Contorno ignora sombras com cores customizadas.</Portuguese>
             <Hungarian>Hozzáférést biztosít a szöveg árnyékának kezeléséhez. A körvonal nem veszi figyelembe az egyedi árnyékszíneket.</Hungarian>
+            <Italian>Permetti controlle la ombra del testo. Il Contorno ignora le colore personalizzare dell'ombra</Italian>
         </Key>
         <Key ID="STR_ACE_Interact_shadowOutline">
             <English>Outline</English>
@@ -209,6 +215,7 @@
             <Polish>Kontur</Polish>
             <Portuguese>Contorno</Portuguese>
             <Hungarian>Körvonal</Hungarian>
+            <Italian>Contorno</Italian>
         </Key>
     </Package>
 </Project>
